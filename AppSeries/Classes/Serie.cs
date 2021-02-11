@@ -26,6 +26,7 @@ namespace AppSeries
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Inicio: " + this.Ano + Environment.NewLine;
+            retorno += "Excluida: " + this.Excluido;
             return retorno;
         }
         public string retornaTitulo(){
@@ -34,6 +35,11 @@ namespace AppSeries
         public int retornaId(){
             return this.Id;
         }
+
+        public bool retornaExcluido(){
+            return this.Excluido;
+        }
+
         public void Excluir(){
             this.Excluido = true;
         }

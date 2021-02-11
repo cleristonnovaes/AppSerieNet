@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-namespace AppSeries.Interface;
+namespace AppSeries.Interface
 {
     public interface IRepositorio<T>
     {

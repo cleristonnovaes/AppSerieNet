@@ -1,0 +1,16 @@
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.csprojAssemblyReference.cache
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.AssemblyInfoInputs.cache
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.AssemblyInfo.cs
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.csproj.CoreCompileInputs.cache
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries.deps.json
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries.runtimeconfig.json
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries.runtimeconfig.dev.json
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries.dll
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/ref/AppSeries.dll
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/bin/Debug/net5.0/AppSeries.pdb
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.dll
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/ref/AppSeries.dll
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.pdb
+/home/cleriston/Documentos/GitHub/AppSerieNet/AppSeries/obj/Debug/net5.0/AppSeries.genruntimeconfig.cache

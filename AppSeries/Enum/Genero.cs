@@ -8,7 +8,7 @@ namespace AppSeries
         Drama = 5,
         Espionagem = 6,
         Faroeste = 7,
-        Fantasia = 8
+        Fantasia = 8,
         Ficcao_cientifica = 9,
         Musical = 10,
         Romance = 11,
